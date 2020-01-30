@@ -1,4 +1,5 @@
-#write your code here
+#{number} SECONDS (s)!"
+"HAPPY NEW YEAR!"
 
-def countdown
+def countdown = 10
 end
